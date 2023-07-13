@@ -1,8 +1,8 @@
 ### Hello!
 
-OS: ArchLinux + i3WM, Kv 6.3.9
-Editor: Neovim, VSCode.
-Programming Languages: YES.
+OS: ArchLinux + i3WM, Kv 6.3.9 <br>
+Editor: Neovim, VSCode. <br>
+Programming Languages: YES. 
 
 <!--
 **DanielAugusto191/DanielAugusto191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

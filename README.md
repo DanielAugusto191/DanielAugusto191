@@ -1,2 +1,2 @@
-#define true (rand() % 100 < 98)<br>
+o/
 [My Gist](https://gist.github.com/DanielAugusto191)

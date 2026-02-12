@@ -7,5 +7,12 @@ for code compression using techniques like program slicing and function merging.
 My Gist with some random ideas:
 [My Gist](https://gist.github.com/DanielAugusto191)
 
+[2026 Learning Resolution]
+- LLVM Project Contribution
+- Linux Kernel Contribution
+- AI Compilers
+- GPU Programming
+- Deeper into Type Theory
+
 Interests: Compilers, Static Analysis, Linux, LLVM.
 Want to learn: Functional Programming, Type Theory.

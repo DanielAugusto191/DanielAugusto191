@@ -12,7 +12,7 @@ My Gist with some random ideas:
 - Linux Kernel Contribution
 - AI Compilers
 - GPU Programming
-- Deeper into Type Theory
+- Hnad-on into Type Theory
 
 Interests: Compilers, Static Analysis, Linux, LLVM.
 Want to learn: Functional Programming, Type Theory.

@@ -11,8 +11,9 @@ My Gist with some random ideas:
 - LLVM Project Contribution
 - Linux Kernel Contribution
 - AI Compilers
+- Lean Proof Assitent
 - GPU Programming
-- Hnad-on into Type Theory
+- Hand-on into Type Theory
 
 Interests: Compilers, Static Analysis, Linux, LLVM.
 Want to learn: Functional Programming, Type Theory.

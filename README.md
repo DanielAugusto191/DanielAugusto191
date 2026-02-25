@@ -8,6 +8,7 @@ My Gist with some random ideas:
 [My Gist](https://gist.github.com/DanielAugusto191)
 
 [2026 Learning Resolution]
+- MLIR
 - LLVM Project Contribution
 - Linux Kernel Contribution
 - AI Compilers

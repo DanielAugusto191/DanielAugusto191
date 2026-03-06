@@ -6,15 +6,3 @@ for code compression using techniques like program slicing and function merging.
 
 My Gist with some random ideas:
 [My Gist](https://gist.github.com/DanielAugusto191)
-
-[2026 Learning Resolution]
-- MLIR
-- LLVM Project Contribution
-- Linux Kernel Contribution
-- AI Compilers
-- Lean Proof Assitents
-- GPU Programming
-- Hand-on into Type Theory
-
-Interests: Compilers, Static Analysis, Linux, LLVM.
-Want to learn: Functional Programming, Type Theory, Proof Assistents

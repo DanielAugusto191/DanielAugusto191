@@ -7,3 +7,4 @@ for code compression using techniques like program slicing and function merging.
 
 My Gist with some random ideas:
 [My Gist](https://gist.github.com/DanielAugusto191)
+[Dot files](https://github.com/DanielAugusto191/dotFiles)

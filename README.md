@@ -5,7 +5,7 @@ Computational Mathematics graduate with a focus on Computer Science at Federal U
 I contributed as a Research Assistant to the Daedalus project in the Compiler Lab, developing an LLVM IR optimization pass
 for code compression using techniques like program slicing and function merging.
 
-My Gist with some random ideas:
+My Gist:
 [My Gist](https://gist.github.com/DanielAugusto191) <br>
 My dot(config) Files
 [Dot files](https://github.com/DanielAugusto191/dotFiles)
